@@ -51,14 +51,14 @@ pip install scapy
 ### 1. Navigate to the project folder:
 
 ```bash
-cd network-sniffer
+cd CodeAlpha_Network_Packet_Sniffer_Task1
 
 ```
 
 ### 2. Run the sniffer script:
 
 ```bash
-python sniffer.py
+python Packet_Sniffer.py
 
 ```
 
